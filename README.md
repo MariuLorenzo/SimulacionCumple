@@ -1,0 +1,20 @@
+# Trabajo de Simulacion 1: Estadísticas y Probabilidades
+---
+## "La paradoja del cumpleaños" :sparkles: 
+_...el problema de Gachi y Pachi..._
+---
+
+## Despliegue 📦
+\## 🛠️ Abre y ejecuta el proyecto
+
+
+
+## Construido con 🛠️
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
+## Desarrollo del Proyecto :bulb:
+
+* [MariuLorenzo](https://github.com/MariuLorenzo)
