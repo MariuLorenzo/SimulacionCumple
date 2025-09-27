@@ -18,3 +18,9 @@ _...el problema de Gachi y Pachi..._
 ## Desarrollo del Proyecto :bulb:
 
 * [MariuLorenzo](https://github.com/MariuLorenzo)
+
+* ## Autora ✒️
+
+* **Mariela Lorenzo** - [MariuLorenzo](https://github.com/MariuLorenzo)
+
+<img src="https://avatars.githubusercontent.com/u/114081375?v=4" width=115><br><sub> Mariu Lorenzo </sub>
