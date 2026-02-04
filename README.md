@@ -1,4 +1,4 @@
-# Trabajo de Simulacion 1: Estadísticas y Probabilidades
+# Simulación : Estadísticas y Probabilidades
 ---
 ## "La paradoja del cumpleaños" :sparkles: 
 _...el problema de Gachi y Pachi..._
