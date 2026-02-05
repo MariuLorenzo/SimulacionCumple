@@ -1,11 +1,17 @@
-# Simulación : Estadísticas y Probabilidades
+## Simulación : Estadísticas y Probabilidades
 ---
-## "La paradoja del cumpleaños" :sparkles: 
-_...el problema de Gachi y Pachi..._
----
+# "La paradoja del cumpleaños" :sparkles: 
+_...el problema de Gachi y Pachi ..._ :sagittarius: _alguien más de sagitario??? que levante la mano_ :wave: :sagittarius:
 
+---
+* En esta simulación responderemos la siguiente pregunta: si tenemos un grupo de  _k_  personas elegidas al azar, ¿cuál es la probabilidad de que haya al menos dos personas que cumplan años el mismo día?
+
+ 
 ## Despliegue 📦
-\## 🛠️ Abre el archivo ipynb para ver los resultados de la simulación. También, puedes copiar el archivo y ejecutarlo en un Google Colab.
+\## 🛠️ 
+* Abre el archivo ipynb para ver los resultados de la simulación. 
+* También, puedes copiar el archivo y ejecutarlo en un Google Colab.
+
 
 ## Construido con 🛠️
 
